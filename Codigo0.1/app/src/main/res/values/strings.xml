@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">COLETA</string>
+    <string name="Login_text">Login</string>
+    <string name="Register_text">Cadastro</string>
+    <string name="title_activity_login">Login</string>
+
+    <string name="data_nascimento">Data de nascimento</string>
+    <string name="cadastre_se">Cadastre-se</string>
+    <string name="endereco_text">Endereço(Cidade, Bairro, Rua)</string>
+    <string name="nome_usuario_text">Nome</string>
+    <string name="prosseguir_paraomapa">Prosseguir para o mapa</string>
+    <string name="titulo_login_principal">Quem é você ? </string>
+    <string name="buttonComom_text">Uma pessoa normal</string>
+    <string name="buttonCatador_text">Um Catador(a)</string>
+    <string name="buttonAdm_text">Um Administrador(a)</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="cep_text">CEP</string>
+    <string name="numero_text">Número</string>
+</resources>
