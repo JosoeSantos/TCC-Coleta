@@ -1,0 +1,23 @@
+<resources>
+    <string name="ong_text">ONG</string>
+    <string name="app_name">Colete</string>
+    <string name="comumusuario_text">Sou um usuário comum</string>
+    <string name="catador_text">Catador</string>
+    <string name="adm_text">Administrador</string>
+    <string name="digiteEndereco_text">Por favor preencha os campos</string>
+    <string name="cep_text">CEP</string>
+    <string name="endereco_literal_text">Edereço(UF, cidade, bairro, rua)</string>
+    <string name="numero_text">Número</string>
+    <string name="pronto_text">Pronto</string>
+    <string name="identifiquese_text">Identifique-se</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="bem_vindo_text">bem vindo</string>
+    <string name="seu_e_mail_text">seu e-mail</string>
+    <string name="senha_text">Senha</string>
+    <string name="login_text">Login</string>
+    <string name="registro_text">Registro</string>
+    <string name="confirme_sua_senha_text">Confirme sua senha</string>
+    <string name="nome_text">Nome</string>
+    <string name="telefone_text">Telefone</string>
+    <string name="chamar_catador_text">Chamar Catador</string>
+</resources>

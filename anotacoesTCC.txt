@@ -1,8 +1,0 @@
-Onde: Usando android studio;
-Como : java,Xml ,APIs, php, mysql,json;
-Quantas etapas: Projetar todo o aplicativo, Desenvolvimento, Testes
-Quais modelos: MVC ...
-
-Lixo:
-Nesse modelo, o sistema fica dividido em três partes: o Model, o View e o Controller. O Model é onde fica armazenada a parte lógica do software, responsável pelo gerenciamento de dados. O View seria a parte que interage com o usuário, por meio de interface gráfica. Nele também é feita a captura de dados. O Controller é a parte responsável pela comunicação entre o Model e o View, fazendo requisições e envio de dados.
-, utilizando o modelo MVC(Model-View-Controller), visto que o uso deste traz benefícios como maior organização do código, o que facilita o desenvolvimento da aplicação; Maior modularização do código, tornando a produção e manutenção do software mais fáceis.
