@@ -1,6 +1,12 @@
 <resources>
     <string name="ong_text">ONG</string>
-    <string name="app_name">Colete</string>
+
+    <!-- Strigs dasbarras de lista_enderecos_menu -->
+    <string name="app_name">Recy</string>
+    <string name="mais">mais</string>
+    <string name="adicionar_endereco_text">Adicionar endereço</string>
+    <string name="configuracoes_text">Configuraçoes</string>
+
     <string name="comumusuario_text">Sou um usuário comum</string>
     <string name="catador_text">Catador</string>
     <string name="adm_text">Administrador</string>
@@ -9,9 +15,8 @@
     <string name="endereco_literal_text">Edereço(UF, cidade, bairro, rua)</string>
     <string name="numero_text">Número</string>
     <string name="pronto_text">Pronto</string>
-    <string name="identifiquese_text">Identifique-se</string>
     <string name="title_activity_settings">Settings</string>
-    <string name="bem_vindo_text">bem vindo</string>
+    <string name="bem_vindo_text">Bem vindo</string>
     <string name="seu_e_mail_text">seu e-mail</string>
     <string name="senha_text">Senha</string>
     <string name="login_text">Login</string>
@@ -20,4 +25,12 @@
     <string name="nome_text">Nome</string>
     <string name="telefone_text">Telefone</string>
     <string name="chamar_catador_text">Chamar Catador</string>
+    <string name="carregando_text">Carregando …</string>
+    <string name="lixo_eletronico_text">Lixo eletrônico</string>
+    <string name="papelao_text">Papelão</string>
+    <string name="embalagens_de_plastico_ou_aluminio_text">Embalagens de plastico ou aluminio</string>
+    <string name="minimo_de_5kg_text">Minimo de 5kg</string>
+    <string name="recicle_text">Recicle !!!</string>
+    <string name="marcar_um_horario_para_a_coleta_text">Marcar um horario para a coleta</string>
+
 </resources>

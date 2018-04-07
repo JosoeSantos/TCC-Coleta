@@ -12,7 +12,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".activities.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -20,12 +20,23 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".LoginActivity"
-            android:parentActivityName=".MainActivity" />
+            android:name=".activities.LoadingActvity"
+            android:parentActivityName=".activities.MainActivity" />
         <activity
-            android:name=".CatadorMainActivity"
-            android:parentActivityName=".MainActivity" />
-        <activity android:name=".ColetaActivity"></activity>
+            android:name=".activities.CatadorMainActivity"
+            android:parentActivityName=".activities.MainActivity" />
+        <activity
+            android:name=".activities.ColetaActivity"
+            android:parentActivityName=".activities.MainActivity" />
+        <activity
+            android:name=".activities.BuscaActivity"
+            android:parentActivityName=".activities.ColetaActivity" />
+        <activity
+            android:name=".activities.LoginActivity"
+            android:parentActivityName=".activities.MainActivity" />
+        <activity
+            android:name=".ListaEnderecoActivity"
+            android:parentActivityName=".activities.ColetaActivity" />
     </application>
 
 </manifest>

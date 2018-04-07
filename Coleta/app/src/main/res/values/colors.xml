@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#1b5e20</color>
-    <color name="colorPrimaryDark">#003300</color>
-    <color name="colorAccent">#1976d2</color>
+    <color name="colorPrimary">#00c853</color>
+    <color name="colorPrimaryDark">#009624</color>
+    <color name="colorAccent">#546e7a</color>
+    <color name="colorBackground">#FF0000</color>
+    <!-- Cores para textos -->
     <color name="blackText">#212121</color>
+    <color name="whiteText">#ffffff</color>
     <color name="red">#bb4444</color>
+
+    <!-- cores para caixas -->
+    <color name="colorBox1">#73e8ff</color>
+    <color name="colorBox2">#1E8FFF</color>
+    <color name="colorBox3">#355B7F</color>
+    <color name="colorBox4">#0F477F</color>
 </resources>

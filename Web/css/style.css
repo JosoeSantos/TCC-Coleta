@@ -1,0 +1,31 @@
+.blue-border{
+    border-color: #1565C0 !important;
+}
+.green-border{
+    border-color: #388E3C;
+}
+.destaque{
+    font-family: monospace;
+    font-weight: 800;
+}
+.destaque:hover{
+    text-decoration: underline;
+}
+.play-link{
+    font-family: cursive;
+    font-size: 1.5rem;
+    color: #FFFFFF;
+    text-align: center;
+    border-radius: 4px;
+    min-width: 70px;
+    width: 30%;
+    margin: 10px;
+    line-height: 64px;
+}
+#downloads > h4{
+    flex: 1 1 100%;
+}
+#downloads{
+    display: flex;
+    flex-wrap: wrap;
+}
